@@ -554,7 +554,7 @@ Exemple : Collecter et conserver le statut marital d’un salarié n’apparaît
 115.	Quel est l’objectif principal du SEO ?
 116.	Existe-t-il plusieurs types de référencement ? Lesquels ?
 117.	Qu’est-ce que la densité de mots-clés en SEO ?
-118.	Qu’est-ce qu’une balise « alt » ?
+118.	Qu’est-ce que l'attribut « alt » ?
 119.	Qu’est-ce que la balise « meta description » ?
 120.	Qu’est-ce que le « nofollow » en SEO ?
 121.	Quelle est l'importance du contenu de qualité pour le référencement d'un site web ?
